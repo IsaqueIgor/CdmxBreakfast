@@ -1,0 +1,12 @@
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\bin\Debug\net6.0\CdmxBreakfast.Contracts.deps.json
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\bin\Debug\net6.0\CdmxBreakfast.Contracts.dll
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\bin\Debug\net6.0\CdmxBreakfast.Contracts.pdb
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.dll
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\refint\CdmxBreakfast.Contracts.dll
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\CdmxBreakfast.Contracts.pdb
+C:\Users\isaqu\Documents\Projects\.net\CdmxBreakfast\CdmxBreakfast.Contracts\obj\Debug\net6.0\ref\CdmxBreakfast.Contracts.dll
