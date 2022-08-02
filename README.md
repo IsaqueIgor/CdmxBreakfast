@@ -35,27 +35,6 @@ This project was developed with the following technologies:
 - Domain-Driven Design
 
 
-## :information_source: How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
-
-From your command line:
-
-### Install API In progress.. :construction:
-```bash
-# Clone this repository
-$ git clone https://github.com/IsaqueIgor/Ecoleta
-
-# Go into the repository
-$ cd NLW-1.0/backend
-
-# Install dependencies
-$ yarn install
-
-# Run
-$ yarn dev
-```
-
 ## 🤔 How to contribute
 
 - Make a fork;

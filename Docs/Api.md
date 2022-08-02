@@ -26,6 +26,7 @@ POST /breakfasts
 {
     "name": "Vegan Sunshine",
     "description": "Vegan everything! Join us for a healthy breakfast..",
+    "city": "Ciudad de Mexico",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
     "savory": [
@@ -54,6 +55,7 @@ Location: {{host}}/Breakfasts/{{id}}
 {
     "id": "00000000-0000-0000-0000-000000000000",
     "name": "Vegan Sunshine",
+    "city": "Ciudad de Mexico",
     "description": "Vegan everything! Join us for a healthy breakfast..",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
@@ -88,6 +90,7 @@ GET /breakfasts/{{id}}
 {
     "id": "00000000-0000-0000-0000-000000000000",
     "name": "Vegan Sunshine",
+    "city": "Ciudad de Mexico",
     "description": "Vegan everything! Join us for a healthy breakfast..",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
@@ -116,6 +119,7 @@ PUT /breakfasts/{{id}}
 {
     "name": "Vegan Sunshine",
     "description": "Vegan everything! Join us for a healthy breakfast..",
+    "city": "Ciudad de Mexico",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
     "savory": [

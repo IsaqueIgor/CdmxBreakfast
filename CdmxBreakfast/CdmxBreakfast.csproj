@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CdmxBreakfast.Contracts\CdmxBreakfast.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>
